@@ -267,6 +267,9 @@ It is one of the best AI video generators for content creation. Click [here](htt
 - **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
 - **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
 - **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** — Independent unofficial AI: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA. `Paid`
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** — Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). Unofficial. `Paid`
+- **[dime dime baby ai](https://dimedimebabyai.dev)** — Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99). `Paid`
 
 ## Text to Video Papers
 
