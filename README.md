@@ -264,6 +264,9 @@ It is one of the best AI video generators for content creation. Click [here](htt
 ### GrokVideo Studio
 
 [GrokVideo Studio](https://grokvideogenerator.dev) is an independent text/image-to-video web app built on the Grok Imagine API. It is **not affiliated with xAI or X**. Free trial credits are available for short AI videos.
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
 
 ## Text to Video Papers
 
